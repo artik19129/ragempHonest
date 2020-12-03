@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0", 
+    "type": "shell",
+    "args": ["${relativeFile}"], 
+    "windows": 
+    { 
+        "command": "${workspaceRoot}\\ragemp-server.exe" 
+        //"command": "${workspaceRoot}\\Gamemode\\build-release.bat" 
+    },
+    "group": {
+        "kind": "build",
+        "isDefault": true
+    }
+} 

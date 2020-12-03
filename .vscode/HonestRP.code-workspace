@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "D:\\RAGEMP\\server-files\\packages"
+		},
+		{
+			"path": "D:\\RAGEMP\\server-files\\client_packages"
+		} 
+	],
+	"settings": [
+		{
+			"files.encoding": "utf8"
+		}
+	]
+} 
